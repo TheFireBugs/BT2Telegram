@@ -65,7 +65,7 @@ smtp:
 1. 从Github仓库中找到 btg.service，将其下载并和二进制放在一起 (给予读写权限)
 2. 修改service文件中的目录
 3. `mv btg.service /usr/lib/systemd/system/btg.service`
-4. `systemectl start btg`
+4. `systemctl start btg`
 5. 如果需要开机启动，再额外输入命令 `systemctl enable btg`
 
 
