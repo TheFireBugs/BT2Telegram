@@ -17,11 +17,11 @@
 ---
 
 <p align="center"><strong>宝塔面板的Telegram消息推送通道<strong></p>
-<p align="center"><strong>可能以后会推出更多功能 (不仅限为消息推送)<strong></p>
+<p align="center"><strong>该项目年久失修，请自行Fork修改<strong></p>
 
 
 <br>
-<p align="center"><a href="https://github.com/JNyaa/BT2Telegram/releases">Download</a> | <a href="https://github.com/JNyaa/BT2Telegram/issues">Issues</a> | <a href="#notice">Notice</a> | <a href="#donate">Donate</a> </p>
+<p align="center"><a href="https://github.com/TheFireBugs/BT2Telegram/releases">Download</a> | <a href="https://github.com/TheFireBugs/BT2Telegram/issues">Issues</a></p>
 
 
 <br>
@@ -77,22 +77,6 @@ smtp:
 5. 点击保存即可
 
 后面的收件人邮箱也是随便填，第一次会自动初始化。
-
-
-# Notice
-
-1. 不接受无脑Issues，态度恶劣的直接删除
-2. 机器人功能简单，无需增强，不接受合并请求
-
-
-<br>
-
-# Donate
-
-USDT/ETH: `0xF1C61348613489C5007a1A7aFbfd72bfdC4a3C3A`
-
-TON: `UQCKEwhmCtTBmFNwESxeEmb8Ij4hSAU1wFs_inPy3tBbLExf`
-
 
 <br>
 
