@@ -5,7 +5,7 @@ go 1.20
 require (
 	github.com/3JoB/telebot v1.1.8
 	github.com/3JoB/telebot-utils v1.0.2
-	github.com/emersion/go-smtp v0.18.0
+	github.com/emersion/go-smtp v0.22.0
 	github.com/golang-module/dongle v0.2.8
 	github.com/knadh/koanf/parsers/yaml v0.1.0
 	github.com/knadh/koanf/providers/file v0.1.0
@@ -23,7 +23,7 @@ require (
 	github.com/3JoB/unsafeConvert v1.4.0 // indirect
 	github.com/aead/chacha20 v0.0.0-20180709150244-8b13a72661da // indirect
 	github.com/andybalholm/brotli v1.0.5 // indirect
-	github.com/emersion/go-sasl v0.0.0-20200509203442-7bfe0ed36a21 // indirect
+	github.com/emersion/go-sasl v0.0.0-20241020182733-b788ff22d5a6 // indirect
 	github.com/emmansun/gmsm v0.16.0 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20210107165309-348f09dbbbc0 // indirect
