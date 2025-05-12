@@ -1,6 +1,6 @@
 module btg
 
-go 1.20
+go 1.23.0
 
 require (
 	github.com/3JoB/telebot v1.1.8
@@ -8,7 +8,7 @@ require (
 	github.com/emersion/go-smtp v0.18.0
 	github.com/golang-module/dongle v0.2.8
 	github.com/knadh/koanf/parsers/yaml v0.1.0
-	github.com/knadh/koanf/providers/file v0.1.0
+	github.com/knadh/koanf/providers/file v1.2.0
 	github.com/knadh/koanf/v2 v2.0.1
 	github.com/sirupsen/logrus v1.9.3
 	gopkg.in/natefinch/lumberjack.v2 v2.2.1
@@ -25,7 +25,7 @@ require (
 	github.com/andybalholm/brotli v1.0.5 // indirect
 	github.com/emersion/go-sasl v0.0.0-20200509203442-7bfe0ed36a21 // indirect
 	github.com/emmansun/gmsm v0.16.0 // indirect
-	github.com/fsnotify/fsnotify v1.6.0 // indirect
+	github.com/fsnotify/fsnotify v1.9.0 // indirect
 	github.com/go-task/slim-sprig v0.0.0-20210107165309-348f09dbbbc0 // indirect
 	github.com/goccy/go-json v0.10.2 // indirect
 	github.com/golang/mock v1.6.0 // indirect
@@ -46,7 +46,7 @@ require (
 	golang.org/x/exp v0.0.0-20230321023759-10a507213a29 // indirect
 	golang.org/x/mod v0.17.0 // indirect
 	golang.org/x/net v0.33.0 // indirect
-	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/sys v0.32.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
 	golang.org/x/tools v0.21.1-0.20240508182429-e35e4ccd0d2d // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
